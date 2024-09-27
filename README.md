@@ -13,11 +13,11 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   languages = ['Python', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS'];
-  libraries = ['Bootstrap', 'Chakra UI', 'React'];
-  frameworks = ['Angular', 'Vue', 'Quasar'];
+  libraries = ['React'];
+  frameworks = ['NextJs', 'SpringBoot'];
   databases = ['MongoDB', 'MySQL', 'PostgresSQL']
   Services = ['AWS', 'Docker', 'Kubernetes', 'Redis', 'Nginx']
-  otherTech = ['Figma']
+  otherTech = ['Figma', 'Keynote']
 }
 ```
 
