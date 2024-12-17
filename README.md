@@ -8,7 +8,7 @@ import Developer from 'Shahma';
 
 class AboutMe extends Developer {
   name = 'Abu Shahma Ansari';
-  area = 'Front-end/Full-stack';
+  area = 'UI/UX and Full-stack';
   job = 'Open Source Developer @Palisadoes_Foundation;
   address = 'Greater Noida, Uttar Pradesh, India';
   undergradProgram = 'B.Tech in Computer Science and Engineering';
@@ -21,7 +21,7 @@ class Skills extends Developer {
   databases = ['MongoDB', 'MySQL', 'PostgresSQL']
   Services = ['AWS', 'Docker', 'Kubernetes', 'Redis', 'Nginx']
   otherTech = ['Figma', 'Keynote']
-  other = ['UI/UX', 'Design Thinking Paradigms']
+  other = ['Design Thinking', 'Prototype Design and Architecture']
 }
 ```
 
