@@ -21,7 +21,7 @@ class Skills extends Developer {
   databases = ['MongoDB', 'MySQL', 'PostgresSQL']
   Services = ['AWS', 'Docker', 'Kubernetes', 'Redis', 'Nginx']
   otherTech = ['Figma', 'Keynote']
-  other = ['Design Thinking', 'Prototype Design and Architecture']
+  other = ['Design Thinking Paradigms', 'Prototype Design and Architecture']
 }
 ```
 
