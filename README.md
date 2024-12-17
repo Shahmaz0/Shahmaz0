@@ -6,7 +6,7 @@ import Developer from 'Shahma';
 class AboutMe extends Developer {
   name = 'Abu Shahma Ansari';
   area = 'Front-end/Full-stack';
-  job = 'Open Source Developer @Rocket.Chat, Processing Foundation';
+  job = 'Open Source Developer @Palisadoes_Foundation;
   address = 'Greater Noida, Uttar Pradesh, India';
   undergradProgram = 'B.Tech in Computer Science and Engineering';
 }
