@@ -1,7 +1,7 @@
 ### Hello...
 This is my github where you are going to find my personal and professional projects. If you are a recruiter/headhunter and want to interview me for a job opportunity please access my Curriculum Vitae in the badges bellow and feel free to verify my main repositories also down below.
 
-Any who wants to make the MVP of their ideas and begin a startup, feel free to connect.
+Any who wants to build a MVP of their ideas and begin a startup, feel free to connect.
 
 ```js
 import Developer from 'Shahma';
