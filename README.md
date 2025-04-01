@@ -8,16 +8,16 @@ import Developer from 'Shahma';
 
 class AboutMe extends Developer {
   name = 'Abu Shahma Ansari';
-  area = 'UI/UX and Full-stack';
+  area = 'iOS development, UI/UX and Full-stack web';
   job = 'Open Source Developer @Palisadoes_Foundation';
   address = 'Greater Noida, Uttar Pradesh, India';
   undergradProgram = 'B.Tech in Computer Science and Engineering';
 }
 
 class Skills extends Developer {
-  languages = ['Python', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS'];
+  languages = ['Swift', 'Python', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS'];
   libraries = ['React'];
-  frameworks = ['NextJs', 'SpringBoot'];
+  frameworks = [SwiftUI, UIKit, 'NextJs', 'SpringBoot'];
   databases = ['MongoDB', 'MySQL', 'PostgresSQL']
   Services = ['AWS', 'Docker', 'Kubernetes', 'Redis', 'Nginx']
   otherTech = ['Figma', 'Keynote']
