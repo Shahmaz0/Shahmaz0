@@ -32,6 +32,6 @@ class Skills extends Developer {
   <a href="https://www.linkedin.com/in/shahma-ansari-189b53233/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pireseduardo/" /></a>
   
-  <a href="https://drive.google.com/file/d/1THzCIHJdzcBioRDdGn1DGk_5LA7Ozro3/view?usp=share_link">
+  <a href="[https://drive.google.com/file/d/1THzCIHJdzcBioRDdGn1DGk_5LA7Ozro3/view?usp=share_link](https://drive.google.com/file/d/1Syow6JhTxvLFV_ytaI8yAIEW15YSGWq5/view?usp=sharing)">
   <img src="https://img.shields.io/badge/-Curriculum_Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
 </p>  
